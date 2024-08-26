@@ -1,0 +1,11 @@
+*.env
+*/ex.html
+*/ex.json
+*/__pycache__
+*/base_ex/
+*/.cache
+models/test.ipynb
+deprecated/data_spotify/.cache
+deprecated/data_spotify/__pycache__/
+deprecated/data_spotify/base_ex/
+*.DS_Store
