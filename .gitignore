@@ -9,3 +9,4 @@ deprecated/data_spotify/.cache
 deprecated/data_spotify/__pycache__/
 deprecated/data_spotify/base_ex/
 *.DS_Store
+data_kaggle/build/.cache
