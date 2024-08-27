@@ -9,4 +9,8 @@ deprecated/data_spotify/.cache
 deprecated/data_spotify/__pycache__/
 deprecated/data_spotify/base_ex/
 *.DS_Store
-data_kaggle/build/.cache
+data/kaggle/build/.cache
+data/kaggle/data_spotify/.cache
+data/deprecated/data_spotify/__pycache__/
+data/deprecated/data_spotify/base_ex/
+data/deprecated/data_spotify/.cache
